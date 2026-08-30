@@ -9,7 +9,7 @@ local jsonContent = [[
 {
     "MainColor": "191919",
     "FontFace": "Code",
-    "AccentColor": "a7fcff",
+    "AccentColor": "a0a0a0",
     "OutlineColor": "282828",
     "BackgroundColor": "0f0f0f",
     "FontColor": "ffffff"
